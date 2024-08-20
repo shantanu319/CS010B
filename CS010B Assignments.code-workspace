@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"C_Cpp.default.compilerPath": "C:\\rtools43\\x86_64-w64-mingw32.static.posix\\lib\\gcc",
+		"git.ignoreLimitWarning": true
+	}
+}
